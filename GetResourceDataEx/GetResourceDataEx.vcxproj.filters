@@ -18,12 +18,12 @@
     <ClCompile Include="Main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Win32.c">
+    <ClCompile Include="VX-API.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Win32.h">
+    <ClInclude Include="VX-API.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
