@@ -3,6 +3,10 @@
 
 #include <Windows.h>
 
+/******************************************
+* https://github.com/vxunderground/VX-API
+*******************************************/
+
 PWCHAR	SecureStringCopyW(_Inout_ PWCHAR String1, _In_ LPCWSTR String2, _In_ SIZE_T Size);
 INT		StringCompareW(_In_ LPCWSTR String1, _In_ LPCWSTR String2);
 SIZE_T	StringLengthW(_In_ LPCWSTR String);
